@@ -23,6 +23,7 @@ public class Main {
 		
 	}
 	
+//	Funcion para imprimir el array
 	public static void verNombres (Nombre[] nombres) {
 		
 		for (Nombre n : nombres) {

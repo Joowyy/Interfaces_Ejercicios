@@ -47,6 +47,7 @@ public class Nombre implements Comparable {
 		
 	}
 	
+//	Metodo implementado del Compare
 	@Override
 	public int compareTo(Object o) {
 		
